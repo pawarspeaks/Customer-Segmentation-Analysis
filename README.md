@@ -14,7 +14,6 @@ This repository contains a data science project focused on analyzing eCommerce t
 
 ### 3. Customer Segmentation (Clustering):
 - Applied clustering algorithms to segment customers based on both profile and transaction data.
-![Uploading AbstractAnonymousGIF.gif…]()
 - Evaluated clustering performance using metrics like the Davies-Bouldin index and silhouette score.
 - Visualized clusters using dimensionality reduction (PCA).
 
